@@ -12,7 +12,10 @@ background-color: blueviolet;
     width: 700px;
 }
 
-
+#message{
+    width: 100px;
+    height: 100px; 
+}
 
 
 
